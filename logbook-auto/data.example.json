@@ -1,0 +1,16 @@
+[
+  {
+    "tanggal": "2026-02-02",
+    "nama_kegiatan": "Nama kegiatan hari ini",
+    "waktu_menit": 540,
+    "uraian": "Deskripsi kegiatan yang dikerjakan hari ini secara detail.",
+    "foto": "C:\\Users\\nama\\Pictures\\foto_01.jpg"
+  },
+  {
+    "tanggal": "2026-02-03",
+    "nama_kegiatan": "Nama kegiatan hari ini",
+    "waktu_menit": 540,
+    "uraian": "Deskripsi kegiatan yang dikerjakan hari ini secara detail.",
+    "foto": "C:\\Users\\nama\\Pictures\\foto_02.jpg"
+  }
+]

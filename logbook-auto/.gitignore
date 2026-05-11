@@ -1,0 +1,6 @@
+data.json
+coords.json
+photos/
+assets/
+__pycache__/
+*.pyc

@@ -1,0 +1,9 @@
+{
+  "btn_tambah":    { "x": 0, "y": 0 },
+  "field_nama":    { "x": 0, "y": 0 },
+  "field_tanggal": { "x": 0, "y": 0 },
+  "field_waktu":   { "x": 0, "y": 0 },
+  "field_uraian":  { "x": 0, "y": 0 },
+  "btn_choosefile":{ "x": 0, "y": 0 },
+  "btn_simpan":    { "x": 0, "y": 0 }
+}
